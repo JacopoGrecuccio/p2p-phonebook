@@ -1,0 +1,19 @@
+{
+  "peersList" : [
+    {
+      "peerName": "Satoshi",
+      "ipv4": "127.0.0.1",
+      "port": 9002
+    },
+    {
+      "peerName": "Vitalik",
+      "ipv4": "127.0.0.1",
+      "port": 9003
+    },
+    {
+      "peerName": "Killer",
+      "ipv4": "127.0.0.1",
+      "port": 9004
+    }
+  ]
+}
